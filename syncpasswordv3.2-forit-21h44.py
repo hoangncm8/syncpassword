@@ -11,7 +11,7 @@ from datetime import datetime
 domainname = ""
 domainpassword = ""
 sudo_password = ""
-username = "it"
+username = ""
 
 # Log function
 def log(message):
