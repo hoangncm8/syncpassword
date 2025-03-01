@@ -1,1 +1,1 @@
-# This tool is using for Enable and Disable SecureToken account on macOS
+# This tool is used to Enable and Disable SecureToken for accounts on macOS
